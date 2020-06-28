@@ -5,3 +5,4 @@ media
 /mysite/static/admin
 /mysite/static/bootstrap
 __init__.py
+db.sqlite3
