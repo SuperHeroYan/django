@@ -1,0 +1,7 @@
+manage.py
+__pycache__
+media
+/mysite/media
+/mysite/static/admin
+/mysite/static/bootstrap
+__init__.py
